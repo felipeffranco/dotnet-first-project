@@ -1,0 +1,14 @@
+D:\wamp64\www\dotnet\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.exe
+D:\wamp64\www\dotnet\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.deps.json
+D:\wamp64\www\dotnet\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.runtimeconfig.json
+D:\wamp64\www\dotnet\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.dll
+D:\wamp64\www\dotnet\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.pdb
+D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.AssemblyInfoInputs.cache
+D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.AssemblyInfo.cs
+D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.csproj.CoreCompileInputs.cache
+D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.dll
+D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\refint\exemploFundamentos.dll
+D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.pdb
+D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.genruntimeconfig.cache
+D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\ref\exemploFundamentos.dll
