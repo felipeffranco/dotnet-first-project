@@ -88,8 +88,8 @@
 
 
 //INSTANCIAR PESSOAS EM CLASS
-Pessoa p1 = new Pessoa("Felipe", "Franco");
-Pessoa p2 = new Pessoa("Nayra", "Biondo"); 
+Pessoa p1 = new Pessoa(nome: "Felipe", sobrenome: "Franco");
+Pessoa p2 = new Pessoa(nome: "Nayra", sobrenome: "Biondo"); 
 
 //INSTANCIAR CURSO EM CLASS
 Curso cursoDeIngles = new Curso();
