@@ -12,3 +12,4 @@ D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\refint\exemploFundament
 D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.pdb
 D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.genruntimeconfig.cache
 D:\wamp64\www\dotnet\exemploFundamentos\obj\Debug\net8.0\ref\exemploFundamentos.dll
+D:\wamp64\www\dotnet\ExemploFundamentos\obj\Debug\net8.0\exemploFundamentos.sourcelink.json
