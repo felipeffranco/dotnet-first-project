@@ -32,7 +32,7 @@ namespace ExemploFundamentos.Models
 			for(int count = 0; count < Alunos.Count; count++)
 			{
 				string texto = $"Número {count + 1} - {Alunos[count].NomeCompleto}";
-                Console.WriteLine(texto);
+                Console.WriteLine(texto); 
 			}
 		}
 	}
