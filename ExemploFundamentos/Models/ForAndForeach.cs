@@ -8,7 +8,7 @@ namespace ExemploFundamentos.Models
     public class ForAndForeach
     {
 //FOR OR
-// for(int contador = 0; contador < listaString.Count; contador++) {
+// for(int contador = 0; contador < Count; contador++) {
 // 	Console.WriteLine($"Posicao número {contador} - {listaString[contador]}");
 // }
 
