@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\wamp64\\www\\dotnet\\ExemploFundamentos\\exemploFundamentos.csproj": {}
+    "D:\\wamp64\\www\\dotnet\\exemploFundamentos\\exemploFundamentos.csproj": {}
   },
   "projects": {
-    "D:\\wamp64\\www\\dotnet\\ExemploFundamentos\\exemploFundamentos.csproj": {
+    "D:\\wamp64\\www\\dotnet\\exemploFundamentos\\exemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wamp64\\www\\dotnet\\ExemploFundamentos\\exemploFundamentos.csproj",
+        "projectUniqueName": "D:\\wamp64\\www\\dotnet\\exemploFundamentos\\exemploFundamentos.csproj",
         "projectName": "exemploFundamentos",
-        "projectPath": "D:\\wamp64\\www\\dotnet\\ExemploFundamentos\\exemploFundamentos.csproj",
+        "projectPath": "D:\\wamp64\\www\\dotnet\\exemploFundamentos\\exemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "D:\\wamp64\\www\\dotnet\\ExemploFundamentos\\obj\\",
+        "outputPath": "D:\\wamp64\\www\\dotnet\\exemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"

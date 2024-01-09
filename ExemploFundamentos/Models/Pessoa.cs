@@ -46,7 +46,7 @@ namespace ExemploFundamentos.Models
                 return _idade;
             }
 
-            //VALIDAR SE CAMPO ESTÄ VAZIO OU NAO
+            //VALIDAR SE CAMPO ESTA VAZIO OU NAO
             set
             { 
                 if(value < 0)
