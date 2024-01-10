@@ -1,0 +1,15 @@
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.exe
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.dll
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.dll
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+D:\wamp64\www\dotnet\testesUnitarios\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
